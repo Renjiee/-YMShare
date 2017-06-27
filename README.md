@@ -4,8 +4,8 @@
 ![][image-1]
 
 打开工程AppDelegate.h文件夹导入头文件
-`#import <UMSocialCore/UMSocialCore.h>
-`
+`#import <UMSocialCore/UMSocialCore.h>`
+
 	-  (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 	// Override point for customization after application launch.
 	
